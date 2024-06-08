@@ -24,5 +24,5 @@ switch(foo)
 	end)
 	:default(function()
 		print("it's definitely something!");
-	end)
+	end);
 ```
